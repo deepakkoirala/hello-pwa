@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+  background:red;
+  color:white;
 }
 
 /* Make content area fill the entire browser window */
@@ -10,8 +12,6 @@ html,
   margin: 0;
   padding: 0;
   width: 100%;
-  background:red;
-  color:white;
 }
 
 /* Center the content in the browser window */
