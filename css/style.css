@@ -16,8 +16,6 @@ html,
 .container {
   margin: auto;
   text-align: center;
-  background:red;
-  color:white;
 }
 
 .title {
