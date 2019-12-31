@@ -10,6 +10,8 @@ html,
   margin: 0;
   padding: 0;
   width: 100%;
+  background:red;
+  color:white;
 }
 
 /* Center the content in the browser window */
