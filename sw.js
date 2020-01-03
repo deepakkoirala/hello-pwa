@@ -3,7 +3,10 @@ var filesToCache = [
   './',
   './index.html',
   './css/style.css',
-  './js/main.js'
+  './js/main.js',
+  'https://code.getmdl.io/1.3.0/material.min.js',
+  'https://code.getmdl.io/1.3.0/material.indigo-pink.min.css',
+  'https://fonts.googleapis.com/icon?family=Material+Icons'
 ];
 
 /* Start the service worker and cache all of the app's content */
