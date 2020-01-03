@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background:red;
+  background:rgb(63,81,181);
   color:white;
 }
 
@@ -22,4 +22,8 @@ html,
 
 .title {
   font-size: 3rem;
+}
+
+.mdl-layout__container {
+	background:white;
 }
